@@ -1,0 +1,97 @@
+*,
+*::before,
+*::after{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li{
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1
+h2
+h3
+h4
+h5
+h6 {
+	font-variant: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+span {
+	color: aqua;
+}
+.yellow span {
+	color: yellow;
+}
+.yellow.brown {
+	color: brown;
+}
+h2 {
+	color: tomato;
+}
+#title {
+	color: slateblue;
+}
+h3 {
+	color: slategray;
+}
+.small_list {
+	color: springgreen;
+}
+p {
+	color: teal;
+}
+.content {
+	color: sienna;
+}
+#green {
+	color: green;
+}
+.info{
+	color:cornflowerblue;
+}
+.small_list_2 {
+	color: burlywood;
+}
+.small_list_2 span {
+	color: cadetblue;
+}
+.small_list_3 {
+	color: darkblue;
+}
+.small_list_3-1 {
+	color: darkgray;
+}
+.blak {
+	color: black;
+}
+h5 {
+	color: darkcyan;
+}
+#title_3-2-1 {
+	color: magenta;
+}
+#title_3-3-1 {
+	color: beige;
+}
+
+.nav > span {
+	color: crimson;
+}
+.text__item + li {
+	color:violet;
+}
+h4 {
+	color: darkorange;
+}
